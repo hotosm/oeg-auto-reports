@@ -1,0 +1,26 @@
+organisation:
+  description: description org
+  name: TM3
+  url: http://example-org.com
+platform:
+  name: MYO Tasking Manager
+  url: http://127.0.0.1:3000
+project:
+  author: wille
+  changesetComment: '#hotosm-project-2'
+  created: '2019-04-08T12:21:37.425808Z'
+  externalSource:
+    imagery: ' tms[22]:http://hiu-maps.net/hot/1.0.0/kathmandu_flipped/{zoom}/{x}/{y}.png'
+    instructions: tests tsete
+    license: gpl 3 description
+    perTaskInstructions: per task instrctions
+  name: arbitrary-project
+  projectId: 2
+  shortDescription: tests tsete
+  status: PUBLISHED
+  url: http://127.0.0.1:3000/projects/2
+  users:
+  - userId: 2823295
+    userName: ramyaragupathy
+  - userId: 360183
+    userName: wille
